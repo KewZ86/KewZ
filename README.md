@@ -1,0 +1,2 @@
+# KewZ
+Cryptocurrency Mining
